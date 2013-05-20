@@ -5,6 +5,7 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
 
     <string name="action_settings">Settings</string>
+    <string name="app_id">497906953566757</string>
     <string name="app_name">Code Brown</string>
     <string name="hello_world">POOP!</string>
 

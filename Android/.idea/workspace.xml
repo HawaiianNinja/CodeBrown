@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
   <component name="AndroidLayouts">
     <shared>
       <config />
@@ -10,6 +15,85 @@
     <ignored path="CodeBrown.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/strings.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369006029596" ignored="false" />
+    <file path="/MainActivity.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031194162" ignored="false" />
+    <file path="/activity_main.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369027414820" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/res/layout/main.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031723679" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/internal/FileLruCache.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/internal/SessionTracker.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/android/Facebook.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/android/DialogError.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/android/FbDialog.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/android/Util.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/android/AsyncFacebookRunner.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/FriendPickerFragment.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/ProfilePictureView.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/LoginButton.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/PickerFragment.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/PlacePickerFragment.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/values-iw/strings.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/ImageDownloader.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/values-he/strings.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/ImageRequest.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/values-es/strings.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/WorkQueue.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/UrlRedirectCache.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/drawable/com_facebook_loginbutton_blue.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/UserSettingsFragment.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/ImageResponseCache.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/FacebookFragment.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/drawable/com_facebook_picker_item_background.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/drawable/com_facebook_button_check.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939528" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/GraphObjectAdapter.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/widget/WebDialog.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/model/GraphPlace.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/model/GraphMultiResult.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/model/PropertyName.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/model/GraphObjectList.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/model/GraphObject.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/model/GraphUser.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/model/OpenGraphAction.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/model/GraphLocation.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/FacebookDialogException.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/drawable/com_facebook_top_button.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/drawable/com_facebook_loginbutton_silver.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/TestSession.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/Response.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/drawable/com_facebook_picker_list_selector.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/FacebookException.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/NativeProtocol.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/TokenCachingStrategy.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/drawable/com_facebook_top_background.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/drawable/com_facebook_picker_list_selector_background_transition.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/values/attrs.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/InsightsLogger.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/values/styles.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/UiLifecycleHelper.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_picker_list_section_header.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/RequestBatch.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_friendpickerfragment.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/FacebookGraphObjectException.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/AccessToken.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_usersettingsfragment.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/FacebookAuthorizationException.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_placepickerfragment.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_placepickerfragment_list_row.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/Request.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/SharedPreferencesTokenCachingStrategy.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_picker_checkbox.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/Session.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_picker_image.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_picker_list_row.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_login_activity_layout.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/com_facebook_picker_search_box.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/AuthorizationClient.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/res/layout/main.xml" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/SessionState.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/Settings.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/FacebookRequestError.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="$PROJECT_DIR$/CodeBrown/libs/facebook/src/com/facebook/internal/Utility.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369031939529" ignored="false" />
+    <file path="/fragment.java" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369032525560" ignored="false" />
+    <file path="/Dummy.txt" changelist="dd343c08-bedd-424b-9506-874fe238c155" time="1369032525560" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +108,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -60,7 +145,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -73,16 +157,48 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/java/com/poop/codebrown/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+            <state line="27" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#511#1431#0" expanded="true" />
+                <element signature="e#1364#1365#0" expanded="true" />
+                <element signature="e#1420#1421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="36" selection-start="201" selection-end="201" vertical-scroll-proportion="0.18392581">
+            <state line="12" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="-8.16">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="61" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -90,11 +206,29 @@
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="android-designer">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="-5.78">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
+        </entry>
+      </file>
+      <file leaf-file-name="local.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,13 +245,33 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/CodeBrown/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/CodeBrown/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/CodeBrown/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/CodeBrown/src/main/java/com/poop/codebrown/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="20" />
-    <option name="width" value="1900" />
-    <option name="height" value="1160" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1216" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -145,7 +299,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,7 +327,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBrown" />
+              <option name="myItemId" value="gradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wrapper" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -189,150 +346,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CodeBrown" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBrown" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBrown" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBrown" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBrown" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBrown" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBrown" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBrown" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeBrown" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codebrown" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="android.dex.compiler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CodeBrown/libs/facebook" />
+    <property name="project.structure.side.proportion" value="0.12594458" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="nexus4" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="42f7dd083c499f6f" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Android Application.CodeBrown">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -440,45 +501,84 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dd343c08-bedd-424b-9506-874fe238c155" name="Default" comment="" />
       <created>1369005908078</created>
       <updated>1369005908078</updated>
-      <workItem from="1369005917931" duration="169000" />
+      <workItem from="1369005917931" duration="6391000" />
+      <workItem from="1369030946060" duration="1898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169000" />
+    <option name="totallyTimeSpent" value="8289000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="20" width="1900" height="1160" extended-state="0" />
+    <frame x="-8" y="-8" width="1874" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972796" sideWeight="0.670987" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281768" sideWeight="0.6213409" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3786591" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3786591" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295562" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295562" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22019868" sideWeight="0.6213409" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.316395" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.68838525" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.68838525" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -542,30 +642,194 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/java/com/poop/codebrown/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#511#1431#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="61" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
         <state />
       </provider>
-      <provider editor-type-id="text-editor">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/java/lang/Override.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="306" selection-end="306" vertical-scroll-proportion="0.1904" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/java/com/poop/codebrown/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+        <state line="27" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#511#1431#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="-5.78">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="61" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeBrown/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="36" selection-start="201" selection-end="201" vertical-scroll-proportion="0.18392581">
+        <state line="12" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="-8.16">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>android-support-v4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android 4.2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CodeBrown</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.12594458" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>facebook-android-support-v4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

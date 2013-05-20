@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android.iml" filepath="$PROJECT_DIR$/Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeBrown.iml" filepath="$PROJECT_DIR$/CodeBrown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeBrown/libs/facebook/facebook.iml" filepath="$PROJECT_DIR$/CodeBrown/libs/facebook/facebook.iml" />
     </modules>
   </component>
 </project>
